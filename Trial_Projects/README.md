@@ -34,7 +34,7 @@ sudo reboot
 ```
 #### 1.3. Create and activate a virtual environment:
 ```bash
-python3 -m venv ~/basics
+python3 -m venv ~/basics --system-site-packages
 source ~/basics/bin/activate
 ```
 #### 1.4. Install Python packages:
