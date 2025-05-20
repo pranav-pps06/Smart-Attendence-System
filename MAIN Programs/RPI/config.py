@@ -1,0 +1,3 @@
+SERVER_CONTROL_URL = "http://192.168.66.182:5000/status"  # Flask app endpoint
+CAMERA_RESOLUTION = (640, 480)
+IR_GPIO_PIN = 17
